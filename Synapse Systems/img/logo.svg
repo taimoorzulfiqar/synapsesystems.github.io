@@ -1,0 +1,13 @@
+<svg width="400" height="400" xmlns="http://www.w3.org/2000/svg">
+  <!-- Main circular shape -->
+  <path d="M200,100 A80,80 0 1,1 199.99,100" fill="none" stroke="#009688" stroke-width="40" stroke-linecap="round"/>
+  
+  <!-- Purple segment -->
+  <path d="M200,100 A80,80 0 0,1 280,180" fill="none" stroke="#3F51B5" stroke-width="40" stroke-linecap="round"/>
+  
+  <!-- Orange inner curve -->
+  <path d="M200,140 A40,40 0 0,1 240,180" fill="none" stroke="#FF5722" stroke-width="20" stroke-linecap="round"/>
+  
+  <!-- Company name -->
+  <text x="200" y="350" font-family="Arial, sans-serif" font-weight="bold" font-size="36.5" fill="#3F51B5" text-anchor="middle">SYNAPSE SYSTEMS</text>
+</svg>

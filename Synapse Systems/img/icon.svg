@@ -1,0 +1,10 @@
+<svg width="200" height="200" xmlns="http://www.w3.org/2000/svg">
+  <!-- Main circular shape -->
+  <path d="M100,20 A80,80 0 1,1 99.99,20" fill="none" stroke="#009688" stroke-width="40" stroke-linecap="round"/>
+  
+  <!-- Purple segment -->
+  <path d="M100,20 A80,80 0 0,1 180,100" fill="none" stroke="#3F51B5" stroke-width="40" stroke-linecap="round"/>
+  
+  <!-- Orange inner curve -->
+  <path d="M100,60 A40,40 0 0,1 140,100" fill="none" stroke="#FF5722" stroke-width="20" stroke-linecap="round"/>
+</svg>
